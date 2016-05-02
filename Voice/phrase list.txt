@@ -1,0 +1,47 @@
+00 00 - Ready
+01 01 - sd card not ready
+02 02 - graphics driver error
+03 03 - let me find your perfect match
+04 04 - have i got a match for you
+05 05 - i can read you like a book
+06 06 - i am just searching my data base
+07 07 - chirp tone
+08 08 - your perfect match for personality
+09 09 - a wild soul
+10 0A - practical 
+11 0B - funny at times 
+12 0C - a bit of a dreamer 
+13 0D - and for wealth they are 
+14 0E - filthy rich 
+15 0F - and well off 
+16 10 - but barely making it 
+17 11 - but just plain broke 
+18 12 - for looks they should be 
+19 13 - gorgeous 
+20 14 - not bad looking 
+21 15 - someone only a mother could love 
+22 16 - somewhat homely 
+23 17 - try touching my sensor
+24 18 - your perfect athletic shape 
+25 19 - athletic 
+26 1A - a fit body 
+27 1B - in need of some work 
+28 1C - just plain flabby 
+29 1D - they will have a brain the size of a planet 
+30 1E - they should be quite bright 
+31 1F - they'll probably be an air head 
+32 20 - and finally they should be over 6 feet tall 
+33 21 - and finally they should be between 5 and 6 feet tall 
+34 22 - and finally they should be 4 feet tall 
+35 23 - and finally they will be no more than 3 feet tall 
+36 24 - changing friends 
+37 25 - the lights are on but no ones home 
+38 -  
+39 -  
+40 -  
+41 -  
+42 -  
+43 -  
+44 -  
+45 - 
+
